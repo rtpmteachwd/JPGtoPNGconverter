@@ -1,0 +1,13 @@
+#This program will convert jpg images to png automatically. This will save you a lot of time because you don't have to open each images in Photoshop and convert each image there. 
+
+Steps in using the python script:
+Make sure you have python Installed on your computer.
+
+
+Make sure to run this script with the source folder path and destination folder path as command-line arguments, like this:
+
+#This is the command that you have to enter in the terminal for the program to run
+python script.py /path/to/source_folder /path/to/destination_folder
+
+
+Replace /path/to/source_folder and /path/to/destination_folder with the actual folder paths in your case.
